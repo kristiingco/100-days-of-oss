@@ -2,24 +2,25 @@
 
 ## Template for Each Day
 
-- **Project**: [Project Name]
-- **Description**: [Briefly describe the project and your goals for the day]
-- **Tasks completed**: [List the tasks you completed]
-- **Challenges faced**: [Mention any challenges you encountered]
-- **Resources used**: [Include any helpful resources or documentation links]
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+-   **Project**: [Project Name]
+-   **Description**: [Briefly describe the project and your goals for the day]
+-   **Tasks completed**: [List the tasks you completed]
+-   **Challenges faced**: [Mention any challenges you encountered]
+-   **Resources used**: [Include any helpful resources or documentation links]
+-   **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
 
 # 100DaysOfOSS Progress Tracker
 
 ## Day 1
 
-- **Project**: Sample Blog Website
-- **Description**: Set up the project and created a basic homepage layout.
-- **Tasks completed**: 
-  - Installed Angular CLI and generated a new project.
-  - Designed the homepage layout with HTML and CSS.
-- **Challenges faced**: Understanding CSS Flexbox for layout design.
-- **Resources used**: 
-  - Angular CLI documentation (https://angular.io/cli)
-  - CSS Flexbox guide on MDN (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-- **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
+-   **Project**: 100 Days of OSS
+-   **Description**: Set up project and get introduced to open source
+-   **Tasks completed**:
+    -   Go to OSS talk from TestMu conference
+    -   Set up workspace in OpenSauced
+    -   Created repository for OpenSauced Intro course
+    -   Introduced my self in the #100DaysOfOSS challenge
+-   **Challenges faced**: Familiarizing myself with open source
+-   **Resources used**:
+    -   OpenSauced Intro to Open Source course (https://opensauced.pizza/learn/intro-to-oss)
+-   **OpenSauced Highlight**: ![Screenshot to OpenSauced Repo](/screenshots/day-1.png)
