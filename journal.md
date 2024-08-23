@@ -24,3 +24,16 @@
 -   **Resources used**:
     -   OpenSauced Intro to Open Source course (https://opensauced.pizza/learn/intro-to-oss)
 -   **OpenSauced Highlight**: ![Screenshot to OpenSauced Repo](/screenshots/day-1.png)
+
+## Day 2
+
+-   **Project**: OrangeHRM Playwright Testing
+-   **Description**: Work on the automated test suites for OrangeHRM Playwright Testing
+-   **Tasks completed**:
+    -   Started Intro to Open Source course
+    -   Created a page object class for Recruitment page
+-   **Challenges faced**: Looking for Open Source repositories to create tests for
+-   **Resources used**:
+    -   OpenSauced Intro to Open Source course (https://opensauced.pizza/learn/intro-to-oss)
+    -   Playwright Locator Docs (https://playwright.dev/docs/locators)
+-   **OpenSauced Highlight**: ![Screenshot of commit in OrangeHRM Repository](/screenshots/day-2.png)
