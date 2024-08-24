@@ -37,3 +37,17 @@
     -   OpenSauced Intro to Open Source course (https://opensauced.pizza/learn/intro-to-oss)
     -   Playwright Locator Docs (https://playwright.dev/docs/locators)
 -   **OpenSauced Highlight**: ![Screenshot of commit in OrangeHRM Repository](/screenshots/day-2.png)
+
+## Day 3
+
+-   **Project**: OpenSauced Guestbook
+-   **Description**: Add myself as contributor to OpenSauced Guestbook
+-   **Tasks completed**:
+    -   Added an issue to main Guestbook repository
+    -   Cloned forked Guestbook repository
+    -   Added myself in Guestbook's README.md
+    -   Created a PR for Guestbook repository
+-   **Challenges faced**: First time adding an issue
+-   **Resources used**:
+    -   OpenSauced Intro to Open Source course (https://opensauced.pizza/learn/intro-to-oss)
+-   **OpenSauced Highlight**: ![Screenshot to adding myself as a contributor](/screenshots/day-3.png)
